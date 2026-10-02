@@ -36,3 +36,4 @@ function renderScreen(key: ScreenKey) {
       return <SettingsScreen />;
   }
 }
+export default App;
