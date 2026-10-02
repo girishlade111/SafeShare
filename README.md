@@ -99,3 +99,8 @@ Before the first release build, drop real icons into `src-tauri/icons/` (the sca
 - [ ] File ingest (drag-and-drop, `.txt` / `.md` / `.csv`)
 - [ ] History persistence (SQLite via `tauri-plugin-sql`)
 - [ ] Theming + per-rule redaction strategy in Settings
+---
+
+## About
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
