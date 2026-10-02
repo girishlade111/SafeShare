@@ -1,1 +1,0 @@
-{"default":{"identifier":"default","description":"Default capability for the SafeShare main window","local":true,"windows":["main-window"],"permissions":["core:default","dialog:default"]}}
